@@ -1,0 +1,17 @@
+.card6{
+    width:600px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    transition:0.3s;
+    animation:ease-in;
+   
+}
+.card-img-top6{
+    background-image: url("../assets/supdel.jpg");
+    height:400px;
+    width:600px;
+   
+}
+.raw2:hover{
+    background-color: rgba(167, 167, 221, 0.3);;
+    }

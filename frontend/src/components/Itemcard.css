@@ -1,0 +1,29 @@
+.CheckIcon{
+    color:green !important;
+    margin-left: 5px;
+   align-items: flex-start;
+    
+}
+.card-text{
+    margin:5 0 5 0;
+    font-size: 18px;
+    color:darkblue;
+    align-items: left;
+    margin:10px 0px;
+    display: flex;
+
+}
+.card-title{
+    font-weight: bold;
+    font-size: 25px;
+    align-items: center;
+}
+.card-body{
+    background-color:white;
+}
+.FeaturedCard{
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}

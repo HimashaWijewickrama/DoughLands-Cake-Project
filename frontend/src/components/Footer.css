@@ -1,0 +1,10 @@
+.pt-4 pb-4 text-center bg-light{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   display: flex;
+
+   text-align: center;
+}
